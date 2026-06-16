@@ -27,6 +27,9 @@ pandas>=2.0.0
 # Token counting / text utils
 tiktoken>=0.6.0
 
+# Streamlit (required for deployment)
+streamlit>=1.32.0
+
 # Logging / debugging (optional but recommended)
 rich>=13.7.0
 
